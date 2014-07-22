@@ -1,0 +1,6 @@
+[submodule "blumenplace-uc"]
+	path = blumenplace-uc
+	url = https://github.com/zolkko/blumenplace-uc.git
+[submodule "blumenplace-monitor"]
+	path = blumenplace-monitor
+	url = https://github.com/zolkko/blumenplace-monitor.git
