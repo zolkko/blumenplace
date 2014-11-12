@@ -4,6 +4,9 @@
 [submodule "blumenplace-monitor"]
 	path = blumenplace-monitor
 	url = https://github.com/zolkko/blumenplace-monitor.git
+[submodule "blumenplace-mechanical"]
+	path = blumenplace-mechanical
+	url = https://github.com/zolkko/blumenplace-mechanical.git
 [submodule "blumenplace-front"]
 	path = blumenplace-front
 	url = https://github.com/zolkko/blumenplace-front
