@@ -10,3 +10,6 @@
 [submodule "blumenplace-front"]
 	path = blumenplace-front
 	url = https://github.com/zolkko/blumenplace-front
+[submodule "blumenplace-site"]
+	path = blumenplace-site
+	url = https://github.com/zolkko/blumenplace-site.git
